@@ -1,4 +1,6 @@
-# Terraform plugin to display workspace in prompt
+# oh-my-zsh agnoster theme to support Terraform workspace display in prompt
+
+This repository contain the themes to support the terraform-workspace plugin.
 
 Plugin for Terraform from Hashicorp, an infrastructure as code tool that allows for multi-cloud support, modularity, 
 and the ability to plan and apply changes, making it easier to manage and provision infrastructure resources.
